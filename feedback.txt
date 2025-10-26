@@ -1,0 +1,3 @@
+Q4: The code itself is correct in logic, but the reason there’s no visible output (you never print or display the DataFrame) (-4)
+96/100
+Good job!
